@@ -11,7 +11,7 @@ User shuffles between 3 masks by clicking the screen. Underneath the camera canv
 * Locate to [ngrok.com](https://ngrok.com/) to setup an account and download the MacOSX ARM64 or Windows(32-Bit) file
 * Follow the ngrok setup instructions [here](https://dashboard.ngrok.com/get-started/setup)
 * Start up a HTTP tunnel. In the terminal, type in ./ngrok http (port number). Fill in the portnumber with the default port from Step 3 in the URL. 
-* Next to forwarding, copy and paste the given link (ex: https://8418-168-122-7-164.ngrok.io) and send to your phone.
+* Next to forwarding, copy and paste the given https link (ex: https://8418-168-122-7-164.ngrok.io) and send to your phone.
 * Open the link on your phone
 
 # Learn more
