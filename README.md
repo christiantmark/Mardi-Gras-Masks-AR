@@ -7,7 +7,7 @@ User shuffles between 3 masks by clicking the screen. Underneath the camera canv
 
 * Clone the Mardi-Gras-Masks-AR sample code.
 * Open the sample code using VSCode
-* Right click index.html and select Open with Live Server. If Live Server is not already installed, documentation to install it can be located [[here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)]
+* Right click index.html and select Open with Live Server. If Live Server is not already installed, documentation to install it can be located [here(https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)]
 * Locate to https://ngrok.com/ to setup an account and download the MacOSX ARM64 or Windows(32-Bit)file
 * Follow the ngrok setup instructions here https://dashboard.ngrok.com/get-started/setup
 * Start up a HTTP tunnel. In the terminal, type in ./ngrok http (port number). Fill in the portnumber with the default port from Step 3 in the URL. 
