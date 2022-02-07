@@ -1,9 +1,9 @@
 A Mardi Gras Masquerade using FaceAR and echo3D! Which Mardi Gras mask will you get? 
 
-How to Use:
+#How to Use:
 User shuffles between 3 masks by clicking the screen. Underneath the camera canvas is a reset button that will reset to the first mask.
 
-Setup:
+#Setup:
 
 Clone the Mardi-Gras-Masks-AR sample code.
 Open the sample code using VSCode
@@ -14,10 +14,10 @@ On step 3, start up a HTTP tunnel. In the terminal, type in ./ngrok http (port n
 Next to forwarding, copy and paste the given link (ex: https://8418-168-122-7-164.ngrok.io) and send to your phone.
 Open the link on your phone
 
-Learn more
+#Learn more
 Refer to our documentation to learn more about how to use Unity and echo3D.
 
-Support
+#Support
 Feel free to reach out at support@echo3D.co or join our support channel on Slack.
 
-Screenshot
+#Screenshot
