@@ -1,5 +1,8 @@
 A Mardi Gras Masquerade using FaceAR and echo3D! Which Mardi Gras mask will you get? 
 
+# Register
+Don't have an API key? Make sure to register for FREE at [echo3D](https://www.echo3d.co/).
+
 # How to Use:
 User shuffles between 3 masks by clicking the screen. Underneath the camera canvas is a reset button that will reset to the first mask.
 
