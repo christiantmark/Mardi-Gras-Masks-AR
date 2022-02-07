@@ -21,3 +21,4 @@ Refer to our documentation to learn more about how to use Unity and echo3D.
 Feel free to reach out at support@echo3D.co or join our support channel on Slack.
 
 # Screenshot
+![alt text](https://scontent-bos3-1.xx.fbcdn.net/v/t1.15752-9/p320x320/272787676_316056950536466_7611529968081835732_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=aee45a&_nc_ohc=mCSMOLqrGnkAX97lqSf&tn=EThAkjqMlTZqkViO&_nc_ht=scontent-bos3-1.xx&oh=03_AVInpgGRozmET0-Hxz2nnXBkXDk4_f6PtZnA20oLpRlDTw&oe=6228651A)
