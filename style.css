@@ -1,0 +1,19 @@
+button {
+ padding: 10px;
+ position: relative;
+ display: block;
+ text-align: center;
+ margin: auto;
+ z-index: 2;
+}
+
+.screen {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    z-index: 1;
+    border: 0;
+    background-color: rgba(0,0,0,0);
+    position: absolute;
+}
