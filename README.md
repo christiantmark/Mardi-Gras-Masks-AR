@@ -15,10 +15,10 @@ User shuffles between 3 masks by clicking the screen. Underneath the camera canv
 * Open the link on your phone
 
 # Learn more
-Refer to our documentation to learn more about how to use Unity and echo3D.
+Refer to our [documentation](https://docs.echo3d.co/) to learn more about how to use Unity and echo3D.
 
 # Support
-Feel free to reach out at support@echo3D.co or join our support channel on Slack.
+Feel free to reach out at support@echo3D.co or join our [support channel on Slack](https://echo3d.slack.com/ssb/redirect).
 
 # Screenshot
 ![alt text](https://scontent-bos3-1.xx.fbcdn.net/v/t1.15752-9/p320x320/272787676_316056950536466_7611529968081835732_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=aee45a&_nc_ohc=mCSMOLqrGnkAX97lqSf&tn=EThAkjqMlTZqkViO&_nc_ht=scontent-bos3-1.xx&oh=03_AVInpgGRozmET0-Hxz2nnXBkXDk4_f6PtZnA20oLpRlDTw&oe=6228651A)
