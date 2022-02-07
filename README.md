@@ -15,7 +15,7 @@ User shuffles between 3 masks by clicking the screen. Underneath the camera canv
 * Open the link on your phone
 
 # Learn more
-Refer to our [documentation](https://docs.echo3d.co/) to learn more about how to use Unity and echo3D.
+Refer to our [documentation](https://docs.echo3d.co/) to learn more about how to use FaceAR and echo3D.
 
 # Support
 Feel free to reach out at support@echo3D.co or join our [support channel on Slack](https://echo3d.slack.com/ssb/redirect).
