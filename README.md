@@ -8,10 +8,11 @@ User shuffles between 3 masks by clicking the screen. Underneath the camera canv
 
 # Setup:
 
+* Go to [echo3D console](https://console.echo3d.co/#/pages/contentmanager) and click "Add to Cloud" in the upper-left hand corner. Search for models by typing in "mardi gras mask" and add 3 masks to your console.
 * Clone the Mardi-Gras-Masks-AR sample code.
 * Open the sample code using VSCode
 * Locate to the index.html file and at line 46, enter your API key and entryID model. Input Mask 1's entry ID.
-* Locate to the style.css file and at lines 3,4, and 5, enter your API keys and entryID's for the 3 masks. Input Mask 1,2, and 3's entry ID's.
+* Locate to the style.css file and at lines 3,4, and 5, enter your API key and entryID's for the 3 masks. Input Mask 1,2, and 3's entry ID's.
 * Right click index.html and select Open with Live Server. If Live Server is not already installed, documentation to install it can be located [here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * Locate to [ngrok.com](https://ngrok.com/) to setup an account and download the MacOSX ARM64 or Windows(32-Bit) file
 * Follow the ngrok setup instructions [here](https://dashboard.ngrok.com/get-started/setup)
