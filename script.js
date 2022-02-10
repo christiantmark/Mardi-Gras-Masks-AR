@@ -1,8 +1,8 @@
 let count = 0;
 let curr = 0;
-let Mask1 = "https://api.echo3D.co/facear?key=empty-hill-1407&entry=8671967b-0a88-4d8d-ae71-ab7250323497";
-let Mask2 = "https://api.echo3D.co/facear?key=empty-hill-1407&entry=3ab309a8-74fa-4e38-9b55-0c68379b7ee4";
-let Mask3 = "https://api.echo3D.co/facear?key=empty-hill-1407&entry=f54dbc27-ee17-4d38-87e9-05db87509dbb";
+let Mask1 = "https://api.echo3D.co/facear?key=<YOUR_API_KEY>&entry=<ENTRY-ID>";
+let Mask2 = "https://api.echo3D.co/facear?key=<YOUR_API_KEY>&entry=<ENTRY-ID>";
+let Mask3 = "https://api.echo3D.co/facear?key=<YOUR_API_KEY>&entry=<ENTRY-ID>";
 let masks = [Mask1, Mask2, Mask3];
 
 function randomMask() {
